@@ -24,7 +24,7 @@
 				// Passed
 
 				//07. send email
-				$toEmail = 'nicoodes@hotmail.com';
+				$toEmail = 'example@gmail.com';
 				$subject = 'Contact request from '.$name;
 				$body = '<h2>Contact Request</h2>
 						<h4>Name</h4><p>'.$name.'</p>
